@@ -6,3 +6,7 @@
     CS 과목을 다시 공부하고 기록하기 위한 페이지
   </p>
 </div>
+
+
+
+[Contribution guidelines for this project](Data_Structure/Data_Structure/src/list/List.md)
