@@ -9,4 +9,4 @@
 
 
 
-[Contribution guidelines for this project](Data_Structure/Data_Structure/src/list/List.md)
+[List 인터페이스](Data_Structure/Data_Structure/src/list/List.md)
