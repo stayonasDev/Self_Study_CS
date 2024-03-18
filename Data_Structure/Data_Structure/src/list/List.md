@@ -5,7 +5,7 @@
     > Collection< E ><br>
       >> List< E >, Set< E >, Queue< E >
    
-<br>
+<br><br>
 <h3>-List의 주요 특징</h3>
 - 데이터의 순서가 보장 <br>
 - 데이터의 중복 허용<br>
@@ -15,6 +15,5 @@
 > Stack<>
 
 <br><hr>
-
-<br><br>
+<br>
 <h3> ArrayList 특징</h3>
