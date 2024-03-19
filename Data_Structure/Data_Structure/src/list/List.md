@@ -11,9 +11,5 @@
 - 데이터의 중복 허용<br>
 - 구현 클래스
 
->>Vector<>, ArrayList<>, LinkedList<><br>
-> Stack<>
-
-<br><hr>
-<br>
-<h3> ArrayList 특징</h3>
+>>ArrayList<>,  LinkedList<><br>
+> Stack<>            Vector<>
